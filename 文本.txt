@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI与中小学生</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0a192f;
+            color: #ccd6f6;
+            line-height: 1.6;
+        }
+        header {
+            text-align: center;
+            padding: 20px 0;
+            background: #112240;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #64ffda;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2em;
+        }
+        section {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        h2 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            color: #64ffda;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background: #112240;
+            color: #8892b0;
+            font-size: 0.9em;
+        }
+        footer a {
+            color: #64ffda;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI与中小学生</h1>
+        <p>未来科技与教育的交汇点</p>
+    </header>
+    <section>
+        <h2>人工智能的重要性</h2>
+        <p>
+            人工智能（AI）正深刻改变着我们的世界。它不仅推动了科学技术的飞速发展，
+            还在教育领域展现出了巨大的潜力。通过AI，我们能够更精准地了解学生的学习需求，
+            提供个性化的教学内容，帮助他们更高效地学习。
+        </p>
+        <h2>中小学生为何需要接触AI</h2>
+        <p>
+            中小学生是未来社会的主力军，他们的思维习惯和学习方式将决定未来科技的方向。
+            接触AI不仅能够培养他们的逻辑思维能力和创新精神，还能让他们提前适应科技驱动的社会。
+            通过学习AI知识，他们能够更好地理解并应用这些工具，提升自身竞争力。
+        </p>
+        <h2>如何帮助中小学生理解AI</h2>
+        <p>
+            要让中小学生更好地理解AI，我们可以采取以下方式：
+        </p>
+        <ul>
+            <li>提供浅显易懂的科普课程，讲解AI的基本原理。</li>
+            <li>结合实际案例，比如机器人编程和智能助手的应用。</li>
+            <li>鼓励学生进行AI创意实践，如开发简单的AI项目。</li>
+        </ul>
+        <p>
+            这些方式不仅能激发学生的兴趣，还能让他们在实践中真正体会到AI的魅力。
+        </p>
+    </section>
+    <footer>
+        <p>&copy; 2024 您的名字 | <a href="mailto:your_email@example.com">联系我</a></p>
+    </footer>
+</body>
+</html>
